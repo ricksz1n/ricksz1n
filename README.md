@@ -25,7 +25,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>         
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src=![tenor](https://github.com/ricksz1n/ricksz1n/assets/126513912/75013132-577b-4ebf-b570-255f04f04a50) width="350">
 </p>
 
 ##
@@ -35,4 +35,4 @@
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ricksz1n&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-![tenor](https://github.com/ricksz1n/ricksz1n/assets/126513912/75013132-577b-4ebf-b570-255f04f04a50)
+
