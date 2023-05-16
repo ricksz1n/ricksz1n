@@ -24,7 +24,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <p align="center">
-![tenor](https://github.com/ricksz1n/ricksz1n/assets/126513912/75013132-577b-4ebf-b570-255f04f04a50)
+<img src=![tenor](https://github.com/ricksz1n/ricksz1n/assets/126513912/75013132-577b-4ebf-b570-255f04f04a50)>
 </p>         
 ##
 <p align="center">
