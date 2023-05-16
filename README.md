@@ -17,6 +17,7 @@
     me = ricks()
     me.diga_oi()
 
+<p align="center">
 ### 🖥️ Tecnologias e Ferramentas:
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
@@ -24,7 +25,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>         
 
-<p align="center">
+
   <img src=https://github.com/ricksz1n/media/blob/main/tenor.gif width="350">
 </p>
 
