@@ -24,7 +24,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>         
 
-<img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="450"> <img src=https://github.com/ricksz1n/media/blob/main/tenor.gif width="450">
+<img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="400"> <img src=https://github.com/ricksz1n/media/blob/main/tenor.gif width="400">
 
 
 ##
