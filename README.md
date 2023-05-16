@@ -15,7 +15,7 @@
             print("Tenho 18 anos, moro em Belo Horizonte/MG e sou apaixonado por programação e jogos!")
 
     me = ricks()
-    me.diga_oi()
+    me.quem_sou_eu()
 
 ### 🖥️ Tecnologias e Ferramentas:
 
