@@ -1,7 +1,7 @@
 # 👋 Hi Devs!
 ## Meu nome é Leandro "ricks" Henriques!
 
-    class ricks:
+    class Ricks:
 
         def __init__(self):
             self.nome = "Leandro Henriques"
@@ -14,7 +14,7 @@
         def quem_sou_eu(self):
             print("Tenho 18 anos, moro em Belo Horizonte/MG e sou apaixonado por programação e jogos!")
 
-    me = ricks()
+    me = Ricks()
     me.quem_sou_eu()
 
 ### 🖥️ Tecnologias e Ferramentas:
